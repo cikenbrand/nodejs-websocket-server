@@ -5,11 +5,7 @@ A WebSocket server built with Node.js for real-time communication between client
 Getting Started
 Prerequisites
 Node.js installed on your machine
-Installation
-Clone the repository:
 
-git clone https://github.com/your-username/websocket-server.git
-cd websocket-server
 Install dependencies:
 
 npm install
